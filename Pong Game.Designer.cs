@@ -43,7 +43,7 @@
             this.lblPlayer2Score.BackColor = System.Drawing.Color.Transparent;
             this.lblPlayer2Score.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPlayer2Score.ForeColor = System.Drawing.Color.White;
-            this.lblPlayer2Score.Location = new System.Drawing.Point(445, 22);
+            this.lblPlayer2Score.Location = new System.Drawing.Point(427, 22);
             this.lblPlayer2Score.Name = "lblPlayer2Score";
             this.lblPlayer2Score.Size = new System.Drawing.Size(68, 73);
             this.lblPlayer2Score.TabIndex = 0;
@@ -55,7 +55,7 @@
             this.lblPlayer1Score.BackColor = System.Drawing.Color.Transparent;
             this.lblPlayer1Score.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPlayer1Score.ForeColor = System.Drawing.Color.White;
-            this.lblPlayer1Score.Location = new System.Drawing.Point(595, 22);
+            this.lblPlayer1Score.Location = new System.Drawing.Point(611, 22);
             this.lblPlayer1Score.Name = "lblPlayer1Score";
             this.lblPlayer1Score.Size = new System.Drawing.Size(68, 73);
             this.lblPlayer1Score.TabIndex = 1;
